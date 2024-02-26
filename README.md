@@ -21,5 +21,4 @@ In conclusion, this scraping pipeline project demonstrates the application scrap
 
 ## Addition
 Our research regarding the application of scraping pipeline in the Big Data Pipeline environment can be read in the paper below :
-https://ejournal.undip.ac.id/index.php/transmisi/article/view/59003
-https://doi.org/10.14710/transmisi.26.1.48-54
+- https://ejournal.undip.ac.id/index.php/transmisi/article/view/59003. DOI: https://doi.org/10.14710/transmisi.26.1.48-54
