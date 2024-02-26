@@ -130,7 +130,7 @@ services:
           "CMD",
           "curl",
           "--fail",
-          "http://localhost:8080/health" #apakah harus diganti hostnya?
+          "http://localhost:8080/health"
         ]
       interval: 10s
       timeout: 10s
@@ -302,7 +302,7 @@ services:
     ports:
       - "5555:5555"
     healthcheck:
-      test: ["CMD", "curl", "--fail", "http://localhost:5555/"] #apakah harus diganti hostnya?
+      test: ["CMD", "curl", "--fail", "http://localhost:5555/"]
       interval: 30s
       timeout: 10s
       retries: 5
