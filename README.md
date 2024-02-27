@@ -2,7 +2,7 @@
 This is part of project Kedaireka UMKM Dian Nuswantoro University Center of Excellence 2023 as Data Engineer
 
 ## Data Source
-From this automatic scraping program, in the first program, the data comes from the Basic Material Price Comparison table (https://sp2kp.kemendag.go.id/), and in the second program, the data comes from the news website (https:// business.com/) with keywords that can be adjusted to your needs
+From this automatic scraping program, in the first program, the data comes from the Basic Material Price Comparison table (https://sp2kp.kemendag.go.id/), and in the second program, the data comes from the news website (https://bisnis.com/) with keywords that can be adjusted to your needs
 
 ### Libraries
 The scraping program that has been created uses the Selenium and BeautifulSoup libraries for each website destination
